@@ -1,0 +1,15 @@
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\bin\Debug\net7.0\Task_25.exe
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\bin\Debug\net7.0\Task_25.deps.json
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\bin\Debug\net7.0\Task_25.runtimeconfig.json
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\bin\Debug\net7.0\Task_25.dll
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\bin\Debug\net7.0\Task_25.pdb
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.csproj.AssemblyReference.cache
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.AssemblyInfoInputs.cache
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.AssemblyInfo.cs
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.csproj.CoreCompileInputs.cache
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.dll
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\refint\Task_25.dll
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.pdb
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\Task_25.genruntimeconfig.cache
+C:\Users\abres\Desktop\Study_GB\Homework_4_C#\Task_25\obj\Debug\net7.0\ref\Task_25.dll
