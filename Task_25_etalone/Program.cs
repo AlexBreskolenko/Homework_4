@@ -11,10 +11,10 @@ Console.Clear();
 //Метод принимает сообщение о вводе и возвращает число
 int Prompt(string message)
 {
-    Console.Write(message);                           // Выводит приглашение к вводу
-    string readInput = Console.ReadLine();  // Вводим значение
-    int result = int.Parse(readInput);                // Приводим к числу
-    return result;                                    // Возвращаем результат
+    Console.Write(message);                      // Выводит приглашение к вводу
+    string readInput = Console.ReadLine();       // Вводим значение
+    int result = int.Parse(readInput);           // Приводим к числу
+    return result;                               // Возвращаем результат
 }
 
 //Метод возводит число в степень(принимает число и степень возведения)
